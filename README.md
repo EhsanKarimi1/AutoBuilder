@@ -3,7 +3,7 @@
 <p align="center">
 	<!-- Project Logo -->
 	<a href="https://github.com/EhsanKarimi1/autobuilder">
-		<img src="logo.png" alt="" height="80">
+		<img src="logo.png" alt="" height="100">
 	</a>
 	<!-- short definition -->
 	<h3 align="center">Automated installer to build Simple and usable OS</h3>
