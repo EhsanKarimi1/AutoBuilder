@@ -8,9 +8,9 @@
 	<!-- short definition -->
 	<h3 align="center">Automated installer to build Simple and usable OS</h3>
 	<br>
-	<br>
 	<p align="center">
 		<a href="https://github.com/EhsanKarimi1/autobuilder"><strong>Explore the Docs</strong></a>
+		<br>
 		<br>
 		.
 		<a href="https://github.com/EhsanKarimi1/autobuilder/issues">Report Bug</a>
