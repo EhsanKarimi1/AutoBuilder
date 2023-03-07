@@ -2,7 +2,7 @@
 <br>
 <p align="center">
 	<!-- Project Logo -->
-	<a href="https://github.com/EhsanKarimi1/system-build">
+	<a href="https://github.com/EhsanKarimi1/autobuilder">
 		<img src="logo.png" alt="" height="80">
 	</a>
 	<!-- short definition -->
@@ -10,13 +10,12 @@
 	<br>
 	<br>
 	<p align="center">
-		<a href="https://github.com/EhsanKarimi1/system-build"><strong>Explore the Docs</strong></a>
-		<br>
+		<a href="https://github.com/EhsanKarimi1/autobuilder"><strong>Explore the Docs</strong></a>
 		<br>
 		.
-		<a href="https://github.com/EhsanKarimi1/system-build/issues">Report Bug</a>
+		<a href="https://github.com/EhsanKarimi1/autobuilder/issues">Report Bug</a>
 		.
-		<a href="https://github.com/EhsanKarimi1/system-build/issues">Request Feature</a>
+		<a href="https://github.com/EhsanKarimi1/autobuilder/issues">Request Feature</a>
 		.
   	</p>
 </p>
