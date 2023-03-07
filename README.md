@@ -28,7 +28,8 @@
     <li>
       <a href="#about-the-project">About The Project</a>
       <ul>
-        <li><a href="#languages">Languages</a></li>
+      	<li><a href="#languages">Operating System</a></li>
+        <li><a href="#languages">Programming Languages</a></li>
         <li><a href="#binary-tools">Binary Tools</a></li>
         <li><a href="#softwares">Softwares</a></li>
       </ul>
@@ -42,9 +43,45 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About the Project
-autoin is a program that will install softwares from programming languages to binary tools and common softwares like discord,Telegram,etc.
+AutoBuilder is a program that will install softwares from programming languages to binary tools and common softwares like discord,Telegram,etc.
 
 
+### Operating Systems
+- Archlinux
+- `alpinelinux`
+- `opensuse`
+- `freeBSD`
+- ubuntu
+- debian
+- fedora
+
+### Programming Languages
+- Rust
+- Python
+- Go
+
+### Binary Tools
+- [git](https://github.com/git/git)
+- [curl](https://github.com/curl/curl)
+- [exa](https://github.com/ogham/exa)
+- [feh](https://github.com/derf/feh)
+- [bat](https://github.com/sharkdp/bat)
+- [duf](https://github.com/muesli/duf)
+- [bashtop](https://github.com/aristocratos/bashtop)
+- [fzf](https://github.com/junegunn/fzf)
+- [neovim](https://github.com/neovim/neovim)
+- [hx](https://github.com/helix-editor/helix)
+- [tuckr](https://github.com/RaphGL/Tuckr)
+
+
+
+
+
+### Softwares
+- Firefox
+- obsidian
+- Brave Browser
+- Sublime-text
 
 
 <!-- LICENSE -->
