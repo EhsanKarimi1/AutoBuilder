@@ -29,6 +29,7 @@
       <ul>
       	<li><a href="#languages">Operating System</a></li>
         <li><a href="#languages">Programming Languages</a></li>
+        <li><a href="#window-manager">Tiling window manager</a></li>
         <li><a href="#binary-tools">Binary Tools</a></li>
         <li><a href="#softwares">Softwares</a></li>
       </ul>
@@ -53,6 +54,14 @@ AutoBuilder is a program that will install softwares from programming languages 
 - ubuntu
 - debian
 - fedora
+
+### tiling window manager
+for wayland compositor
+- Sway
+- Hyprland
+
+for X11 compositor
+- bspwm
 
 ### Programming Languages
 - Rust
