@@ -47,17 +47,16 @@ AutoBuilder is a program that will install softwares from programming languages 
 
 
 ### Operating Systems
+choose which operating system you want, i prefer these:
 - Archlinux
-- `alpinelinux`
 - `opensuse`
-- `freeBSD`
 - ubuntu
 - debian
-- fedora
+
+which programs will install and you can choose to install:
 
 ### tiling window manager
 for wayland compositor
-- Sway
 - Hyprland
 
 for X11 compositor
@@ -65,11 +64,9 @@ for X11 compositor
 
 ### Programming Languages
 - Rust
-- Python
 - Go
 
 ### Binary Tools
-- [git](https://github.com/git/git)
 - [curl](https://github.com/curl/curl)
 - [exa](https://github.com/ogham/exa)
 - [feh](https://github.com/derf/feh)
@@ -81,16 +78,29 @@ for X11 compositor
 - [hx](https://github.com/helix-editor/helix)
 - [tuckr](https://github.com/RaphGL/Tuckr)
 
-
-
-
-
 ### Softwares
 - Firefox
 - obsidian
 - Brave Browser
 - Sublime-text
 
+## Getting Started
+before starting we you need to install `git` package from package manager to clone this project on your os.
+use this command:
+```sh
+sudo [package manager command] install git
+```
+git project:
+- [git](https://github.com/git/git)
+
+after that clone this project with this command:
+```sh
+git clone https://github.com/ehsankarimi1/autobuilder
+```
+now run this command:
+```sh
+bash autobuilder.sh
+```
 
 <!-- LICENSE -->
 ## License
