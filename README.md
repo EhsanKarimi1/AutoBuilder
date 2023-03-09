@@ -53,7 +53,7 @@ choose which operating system you want, i prefer these:
 - ubuntu
 - debian
 
-which programs will install and you can choose to install:
+Programs will install and you can choose:
 
 ### tiling window manager
 for wayland compositor
@@ -85,7 +85,7 @@ for X11 compositor
 - Sublime-text
 
 ## Getting Started
-before starting we you need to install `git` package from package manager to clone this project on your os.
+before starting you need to install `git` package from package manager to clone this project on your os.
 use this command:
 ```sh
 sudo [package manager command] install git
